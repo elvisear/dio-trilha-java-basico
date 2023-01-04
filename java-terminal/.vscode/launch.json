@@ -1,0 +1,55 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "java-terminal_db0fad29"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "java-terminal_db0fad29"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMeInterativo",
+            "request": "launch",
+            "mainClass": "AboutMeInterativo",
+            "projectName": "java-terminal_db0fad29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Elvis",
+                "Rodrigues",
+                "46",
+                "1.85"
+            ],
+            "projectName": "java-terminal_db0fad29"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "java-terminal_db0fad29"
+        }
+    ]
+}
